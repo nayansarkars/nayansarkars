@@ -1,70 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarkar%20Nayan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SQA%20Engineer%20%7C%20Frontend%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sarkar+Nayan;Front-End+Developer+%7C+SQA+Engineer;Building+quality+products+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarkarnayans/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayansarkars)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.sarkarnayan.com)
+[![LumosForms](https://img.shields.io/badge/LumosForms-6C63FF?style=for-the-badge&logo=formstack&logoColor=white)](https://lumosforms.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@sarkarnayan.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nayansarkars&label=Profile+Views&color=00d9ff&style=flat-square)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-আমি **Sarkar Nayan** — একজন passionate **SQA & QA Engineer** এবং **Frontend Developer**। আমি software quality নিশ্চিত করতে এবং সুন্দর, functional web interfaces তৈরি করতে ভালোবাসি।
+I'm a **Front-End Developer** and **SQA & QA Engineer** based in **Sylhet, Bangladesh 🇧🇩** — passionate about building pixel-perfect UIs and ensuring software quality through both manual and automation testing.
 
-- 🔭 বর্তমানে **Appifylab**-এ **SQA Engineer** হিসেবে কর্মরত
-- 💼 আগে **Appifylab**-এ **Front-End Developer** হিসেবে ১.৫ বছর কাজ করেছি
-- 🌱 Continuously learning — UI/UX Design, Laravel, React নিয়ে কোর্স করেছি
-- 📍 **Dhaka, Bangladesh** থেকে
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🧪 QA & Testing
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-00897B?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Test Cases](https://img.shields.io/badge/Test_Case_Writing-1565C0?style=for-the-badge&logo=testcafe&logoColor=white)
-![Bug Tracking](https://img.shields.io/badge/Bug_Tracking-E53935?style=for-the-badge&logo=bugsnag&logoColor=white)
+- 🏢 Currently at **AppifyLab** as a Front-End Developer (with QA responsibilities)
+- 🌟 Creator of **[LumosForms](https://lumosforms.com)** — a dynamic form-building platform
+- 🔍 Passionate about **quality-first development** and **AI-assisted workflows**
+- 💼 Portfolio: **[sarkarnayan.com](https://www.sarkarnayan.com)**
 
 ---
 
-## 🎓 Education & Courses
+## 🛠️ Technical Skills
 
-| কোর্স | প্ল্যাটফর্ম |
-|---|---|
-| 🎨 UI/UX Design | Ostad |
-| 🐘 PHP Laravel 2 | Ostad |
-| ⚛️ React | Programming Hero |
-| 📱 Responsive Web Design | Creative IT |
+### Languages & Frameworks
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Testing & Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![DevTools](https://img.shields.io/badge/Browser_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+> **Testing expertise:** Manual · Functional · Regression · UI · Cross-Browser · Integration
+
+### 🤖 AI Tools & Workflow
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=flat-square&logo=deepseek&logoColor=white)
+
+> AI-Assisted Front-End Development · Prompt Engineering · AI Workflow Optimization
 
 ---
 
 ## 💼 Experience
 
-```
-🏢 Appifylab
-├── 🔬 SQA & QA Engineer        (1 year)
-│   ├── Manual testing & test case writing
-│   ├── Bug reporting & tracking
-│   └── Quality assurance processes
-│
-└── 💻 Front-End Developer      (1.5 years)
-    ├── HTML, CSS, JavaScript
-    ├── React, Next.js
-    └── Tailwind CSS, Bootstrap
-```
+### 💻 Front-End Developer — AppifyLab
+**08/2024 – 05/2026 &nbsp;|&nbsp; Sylhet, Bangladesh**
+
+- Designed and developed responsive, cross-browser-compatible web interfaces using **HTML5, CSS3, and JavaScript**
+- Built dynamic UI components with **React JS** and **Next.js**
+- Utilized **Bootstrap** and **Tailwind CSS** for consistent, maintainable design systems
+- Implemented **jQuery** interactions and integrated **RESTful APIs** into front-end applications
+- Developed back-end features and APIs using **PHP** and the **Laravel** framework
+- Collaborated with design and QA teams to deliver pixel-perfect interfaces
+
+---
+
+### 🔬 SQA & QA Engineer — AppifyLab
+*(Additional Work Experience)*
+
+- Developed and executed comprehensive **test plans, test cases, and test scripts** for web applications
+- Performed **functional, regression, integration, and UI testing** to ensure product quality and stability
+- Identified, documented, and tracked bugs through the full **defect lifecycle** using issue-tracking tools
+- Collaborated closely with developers to reproduce issues and verify fixes across multiple release cycles
+- Leveraged front-end knowledge to perform in-depth **UI/UX and cross-browser compatibility testing**
+- Contributed to improving QA processes and maintaining test documentation
+
+---
+
+### 🌟 LumosForms — My Product
+**[lumosforms.com](https://lumosforms.com) &nbsp;|&nbsp; 01/2026 – Present**
+
+- Developed and maintained dynamic **form-building features** with a focus on responsive and user-friendly UI/UX
+- Implemented customizable **form components, validation systems, conditional logic, and embed functionalities** using modern front-end technologies
+- Collaborated with designers and developers to improve performance, usability, and overall user experience
+
+---
+
+## 🎓 Education & Courses
+
+| 🏆 Course | 🏫 Platform | Focus |
+|:---|:---|:---|
+| UI/UX Design | Ostad | Figma, Design Principles |
+| PHP Laravel 2 | Ostad | Backend, MVC, APIs |
+| React | Programming Hero | Component Architecture |
+| Responsive Web Design | Creative IT | Mobile-First CSS |
 
 ---
 
@@ -72,23 +120,14 @@
 
 <div align="center">
 
-![Sarkar Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarkarnayan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkarnayan&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarkarnayan&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayansarkars&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayansarkars&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 
 </div>
 
----
-
-## 🤝 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarkarnayan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarkarnayan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nayansarkars&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -96,10 +135,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+> *"Quality is not an act, it is a habit."* — Aristotle
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sarkarnayan&color=0e75b6&style=flat)
+<br/>
 
-*"Quality is never an accident; it is always the result of intelligent effort."*
+**🤝 Open to collaborations, freelance projects, and new opportunities!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarkarnayans/)
 
 </div>
